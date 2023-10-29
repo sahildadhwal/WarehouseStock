@@ -30,11 +30,10 @@ form {
     margin-bottom: 20px;
 }
 
-
 input[type="text"],
 input[type="number"] {
     flex: 1;
-    padding: 15px;
+    padding: 10px;
     border: none;
     border-bottom: 1px solid #ddd;
     background-color: transparent;
@@ -48,36 +47,22 @@ input[type="number"]::placeholder {
     color: #999;
 }
 
-button[type="submit"] {
-    padding: 15px 30px;
+button[type="submit"],
+button[type="menu"] {
+    padding: 12px 20px;
     background-color: #007bff;
     color: #fff;
     border: none;
     border-radius: 10px;
     cursor: pointer;
     transition: background-color 0.2s;
-    font-size: 18px;
+    font-size: 16px;
 }
 
-button[type="submit"]:hover {
+button[type="submit"]:hover,
+button[type="menu"]:hover {
     background-color: #0056b3;
 }
-
-button[type="menu"] {
-    padding: 15px 30px;
-    background-color: #f32b2b;
-    color: #fff;
-    border: none;
-    border-radius: 10px;
-    cursor: pointer;
-    transition: background-color 0.2s;
-    font-size: 18px;
-}
-button[type="menu"]:hover {
-    background-color: #9c240f;
-}
-
-
 
 ul {
     list-style: none;
@@ -88,8 +73,8 @@ li {
     background-color: #fff;
     border: 1px solid #ddd;
     border-radius: 10px;
-    margin: 20px 0;
-    padding: 20px;
+    margin: 10px 0;
+    padding: 15px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -98,19 +83,47 @@ li {
 }
 
 li button {
-    padding: 12px 24px;
+    padding: 10px 20px;
     background-color: #fff;
     color: #007bff;
     border: 1px solid #007bff;
     border-radius: 10px;
     cursor: pointer;
     margin-left: 0;
-    margin-top: 20px;
+    margin-top: 10px;
     transition: background-color 0.2s, color 0.2s;
-    font-size: 16px;
+    font-size: 14px;
 }
 
 li button:hover {
     background-color: #007bff;
     color: #fff;
+}
+
+@media screen and (max-width: 768px) {
+    h1 {
+        font-size: 24px;
+    }
+    #warehouse-inventory {
+        width: 95%;
+        padding: 10px;
+    }
+    input[type="text"],
+    input[type="number"] {
+        padding: 10px;
+        font-size: 14px;
+    }
+    button[type="submit"],
+    button[type="menu"] {
+        padding: 12px 20px;
+        font-size: 16px;
+    }
+    li {
+        padding: 15px;
+        margin: 10px 0;
+    }
+    li button {
+        padding: 10px 20px;
+        font-size: 14px;
+    }
 }
