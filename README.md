@@ -2,6 +2,8 @@
 
 ![Project Image](project-image.png)
 
+[*Website*]([https://github.com/sahildadhwal](https://sahildadhwal.github.io/WarehouseStock/))
+
 ## Table of Contents
 
 - [About](#about)
