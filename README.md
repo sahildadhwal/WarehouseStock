@@ -1,8 +1,8 @@
-pr# Warehouse Inventory Management
-
-![Project Image](/img/project-image.png)
+# Warehouse Inventory Management
 
 [*Website*](https://sahildadhwal.github.io/WarehouseStock)
+
+![Project Image](/img/project-image.png)
 
 ## Table of Contents
 
@@ -22,3 +22,4 @@ The Warehouse Inventory Management system is a web application designed to help 
 
 # My Profile
 ### [*Sahil Dadhwal*](https://github.com/sahildadhwal)
+
