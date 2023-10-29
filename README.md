@@ -2,8 +2,6 @@
 
 ### [*Warehouse Inventory Site*](https://sahildadhwal.github.io/WarehouseStock)
 
-![Project Image](/img/project-image.png)
-
 ## Table of Contents
 
 - [About](#about)
@@ -19,6 +17,8 @@ The Warehouse Inventory Management system is a web application designed to help 
 - User-friendly interface for non-tech-savvy users.
 - Email functionality for sending inventory reports.
 - Stylish and responsive design for mobile devices.
+
+![Project Image](/img/project-image.png)
 
 # My Profile
 ### [*Sahil Dadhwal*](https://github.com/sahildadhwal)
