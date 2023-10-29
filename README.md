@@ -1,6 +1,6 @@
-# Warehouse Inventory Management
+pr# Warehouse Inventory Management
 
-![Project Image](project-image.png)
+![Project Image](/img/project-image.png)
 
 [*Website*](https://sahildadhwal.github.io/WarehouseStock)
 
