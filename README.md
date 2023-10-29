@@ -1,6 +1,7 @@
 # Warehouse Inventory Management
 
-### [*Warehouse Inventory Site*](https://sahildadhwal.github.io/WarehouseStock)
+## Warehouse Inventory Site Link
+### [*Website*](https://sahildadhwal.github.io/WarehouseStock)
 
 ![Project Image](/img/project-image.png)
 
